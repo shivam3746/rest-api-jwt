@@ -41,4 +41,6 @@ npm run start:dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
+To start testing the APIs please refer to the below Postman documentation.
 
+Open [https://documenter.getpostman.com/view/23485458/2s9XxySZBj](https://documenter.getpostman.com/view/23485458/2s9XxySZBj).
